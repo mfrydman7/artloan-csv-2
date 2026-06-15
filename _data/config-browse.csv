@@ -1,7 +1,9 @@
 field,display_name,btn,hidden,sort_name,facet_name
-date,Date,,,Date Created
-description,,,true,
-creator,Creator,,,
-subject,,true
-location,,true,,,Location Depicted
-identifier,,,true,Identifier
+creator,,,,Creator,Creator
+location,,true
+size,size,true,,Size,Size
+frame status,framed,true,,Framed,Framed
+color,colorful?,true,true,,Colorful?
+dominant color,dominant color,true,,Dominant color,Dominant color
+medium,medium,,,Medium,Medium
+subject,,true,,,Subject
