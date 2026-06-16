@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # title of site appears in banner
 title: Circulating Art Loan Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: Campus Lending Program at Bryn Mawr College
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "Special Collections manages Bryn Mawr College's art collection. As part of the Campus Art Lending Program, we make artwork from the Circulating Art Loan Collection available for display in Administration, Faculty, and Staff offices."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho; history; inland northwest
+keywords: art; special collections; college campus
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Bryn Mawr College Special Collections
 
 ##########
 # COLLECTION SETTINGS
@@ -50,11 +50,11 @@ metadata: artloan_metadata3
 #
 # Enter name and link for your organization (replacing the name and links below)
 # These values will be used in attribution and data 
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
+organization-name: "Bryn Mawr College Special Collections"
+organization-link: https://www.brynmawr.edu/about-college/special-collections
 # Add logo image links if you would like them to appear in banner and footer. Delete or leave blank to remove logos.
-organization-logo-banner: https://www.lib.uidaho.edu/collectionbuilder/cdil-black.png
-organization-logo-nav: https://www.lib.uidaho.edu/collectionbuilder/cdil-white.png
+organization-logo-banner: objects/logo2.png
+organization-logo-nav: https://dyzz9obi78pm5.cloudfront.net/app/image/id/674f280c19beadd3b208268d/n/bryn-mawr-logo-left-aligned-reverse-2-color-web.png
 
 ##########
 # ROBOTS EXCLUDE
