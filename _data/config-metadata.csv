@@ -1,15 +1,19 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
-title,Title,,,DCTERMS.title,headline
-creator,Creator,,,DCTERMS.creator,creator
-date,Date Created,,,DCTERMS.date,dateCreated
-description,Description,,,DCTERMS.description,description
+title,Title,,DCTERMS.title,headline
+creator,Creator,true,DCTERMS.creator,creator
+medium,Medium,true,true
+date,Date,,,DCTERMS.date,dateCreated
 subject,Subjects,true,,DCTERMS.subject,keywords
-location,Location,,,DCTERMS.coverage,contentLocation
-latitude,Latitude,,,,
-longitude,Longitude,,,,
-source,Source,,,,
-identifier,Source Identifier,,,,
+size,Size,,,
+color, Colorful?,,,,,
+dominant color,Dominant color,true,true
+frame status, Already framed?,true,true
+mat status, Already matted?,, true
+available, Available,,
+location,,,,DCTERMS.coverage,contentLocation
+source,,,,,
+identifier,,,,,
 type,Type,,,DCTERMS.type,
-format,Format,,,,encodingFormat
-language,Language,,,DCTERMS.language,
-rightsstatement,,,,DCTERMS.rights,license
+format,,,,,encodingFormat
+description,Description,,,DCTERMS.description,description
+extent,Dimensions,,,
