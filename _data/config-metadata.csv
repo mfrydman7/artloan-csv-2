@@ -4,7 +4,7 @@ creator,Creator,true,DCTERMS.creator,creator
 medium,Medium,true,true
 date,Date,,,DCTERMS.date,dateCreated
 subject,Subjects,true,,DCTERMS.subject,keywords
-size,Size,,,
+size,Size,true,true
 color, Colorful?,,,,,
 dominant color,Dominant color,true,true
 frame status, Already framed?,true,true

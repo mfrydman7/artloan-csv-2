@@ -1,6 +1,5 @@
 field,display_name,btn,hidden,sort_name,facet_name
 creator,,,,Creator,Creator
-location,,true
 size,size,true,,Size,Size
 frame status,framed,true,,Framed,Framed
 color,colorful?,true,true,,Colorful?
